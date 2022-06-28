@@ -9,7 +9,7 @@
     },
     "Xray_Path": {
       "description": "Path路径，默认/s233,为了安全你也可以使用uuid替换s233，/不能少。如果开启反代，不要与反代网站存在的uri相同",
-      "value": "/s233"
+      "value": "/87ttr5tfgyf"
     },
 
     "INBOUND": {
